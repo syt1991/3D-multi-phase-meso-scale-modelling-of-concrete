@@ -13,7 +13,7 @@ Abaqus; Python script; Mayavi; three-dimensional (3D) meso-scale model; multi-ph
 ## Introduction
 I'd like to share some codes from my research and hope it helps. <br>
 An numerical modeling framework was proposed to generate highly realistic 3D mesoscale multi-phase concrete models with unprecedented efficiency and accuracy. <br>
-Our framework achieved a significant wide range in aggregate volume fraction (0 to 80%) and featuring rapid model generation capabilities, <br>
+Our framework achieved a significant wide range in aggregate volume fraction (0 to 80%) and featuring rapid model generation capabilities, 
 and extemely reduce computational time—achieving simulations of 1 million elements within mere 30 s on readily available hardware. <br>
 ## Packages requirements
 Packages, including numpy, scipy, and mayavi are needed.
