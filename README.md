@@ -1,7 +1,7 @@
 If useful to your research, we would appreciate a citation:<br>
-***Yutai Su, Jiaqi Zhu, Xu Long, Shaobo Kang. 
-"Highly efficient 3D meso-scale modeling of concrete with degraded aggregates and random pores: mesoscopic insights into volume fraction and compressive properties." 
-XXXXXX (2023): XXXXXX.***<br>
+***Yutai Su, Percy M. Iyela, Jiaqi Zhu, Xujiang Chao, Shaobo Kang, Xu Long. 
+"A Voronoi-based gaussian smoothing algorithm for efficiently generating RVEs of multi-phase composites with graded aggregates and random pores." 
+Materials & Design (2024): 244, 113159.***<br>
 Feel free to utilize this code. 
 If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
